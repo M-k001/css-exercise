@@ -1,0 +1,16 @@
+.same-color {
+    background-color: rgb(255, 167, 167);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+  .same-color.cooler {
+    font-size: 24px;
+  }
+#first {
+    color: rgb(30, 30, 238);
+    font-size: 36px;
+}
+#second {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
