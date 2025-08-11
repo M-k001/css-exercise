@@ -4,5 +4,8 @@ div {
     font-size: 32px;
     text-align: center;
     font-weight: bold;
+    padding: 30px;
+    border: 20px; border-color: #000; border-radius: 20px;
+    margin: 30px;
 
 }
